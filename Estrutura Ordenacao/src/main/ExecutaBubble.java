@@ -4,7 +4,7 @@ import java.util.Random;
 
 import sorts.BubbleSort;
 
-public class ExecutarBubble {
+public class ExecutaBubble {
 
 	public static void main(String[] args) {
 		int[] v = new int[100];
